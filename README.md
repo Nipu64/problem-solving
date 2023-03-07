@@ -1,6 +1,7 @@
 # problem-solving </br>
 
 [problem : copycat](https://toph.co/p/copycat)
+[solution : ](https://github.com/Nipu64/problem-solving/blob/main/Toph/Apartments.cpp)
 
 ```cpp
 #include <iostream>
