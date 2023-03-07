@@ -1,3 +1,11 @@
 # problem-solving
-[problem :Copycat](https://toph.co/p/copycat) </br>
-[solution](https://ideone.com/fjZfwB)
+'''cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	return 0;
+}
+
+'''
