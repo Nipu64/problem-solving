@@ -1,1 +1,1 @@
-<code style="color : Red">Codeforces</code>
+<code style="color : red">Codeforces</code>
