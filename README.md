@@ -1,1 +1,1 @@
-<p style="color:blue">Codeforces</p>
+$${\color{red}Codeforces}$$
