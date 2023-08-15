@@ -14,6 +14,9 @@
    
    [Weird Algorithm](https://cses.fi/problemset/task/1068)<br/>
    [Solution](https://ideone.com/uMYFjT)<br/>
+   [Missing Number](https://cses.fi/problemset/task/1083)<br/>
+   [Solution](https://ideone.com/GsY5Cx)<br/>
+   
    
 
 
