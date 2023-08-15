@@ -11,6 +11,8 @@
 
    <h1>CSES</h1><br/>
    <h1>Introductory Problems</h1><br/>
+   [Weird Algorithm](https://cses.fi/problemset/task/1068)<br/>
+   [Solution](https://ideone.com/uMYFjT)<br/>
    
 
 
