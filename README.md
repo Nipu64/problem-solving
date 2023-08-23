@@ -8,7 +8,7 @@
    [C. Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C)<br/>
    [Solution](https://ideone.com/OZslD1)<br/>
    [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B)<br/>
-   [Solution](https://ideone.com/CcLuyu)
+   [Solution](https://ideone.com/CcLuyu)<br/>
    
    
    
