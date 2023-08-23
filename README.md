@@ -2,6 +2,17 @@
 
 [B. Fibonaccharsis](https://codeforces.com/contest/1853/problem/B)<br />
    [Solution](https://ideone.com/gBLFgK)<br/>
+   
+   <h3><b>Number Theory</b></h3>
+   
+   [C. Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C)<br/>
+   [Solution](https://ideone.com/OZslD1)<br/>
+   [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B)<br/>
+   [Solution](https://ideone.com/CcLuyu)
+   
+   
+   
+   
 
    <h1>UVA</h1>
 
