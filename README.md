@@ -11,6 +11,9 @@
    [Solution](https://ideone.com/CcLuyu)<br/>
    [A. Burenka Plays with Fractions](https://codeforces.com/contest/1720/problem/A)<br/>
    [Solution](https://ideone.com/UpCTjJ)<br/>
+   [A. AvtoBus](https://codeforces.com/contest/1679/problem/A)<br/>
+   [Solution](https://ideone.com/pCOna9)<br/>
+   
    
    
    
