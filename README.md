@@ -47,7 +47,9 @@
 
    <h1>CodeChef</h1>
    
-   [STARTERS 98](https://www.codechef.com/START98D?order=desc&sortBy=successful_submissions)<br/>
+   [Airport Management](https://www.codechef.com/problems/AIRM)<br/>
+   [Solution](https://ideone.com/tITBvf)<br/>
+   
    
    
 
