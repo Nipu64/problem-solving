@@ -9,6 +9,9 @@
    [Solution](https://ideone.com/OZslD1)<br/>
    [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B)<br/>
    [Solution](https://ideone.com/CcLuyu)<br/>
+   [A. Burenka Plays with Fractions](https://codeforces.com/contest/1720/problem/A)<br/>
+   [Solution](https://ideone.com/UpCTjJ)<br/>
+   
    
    
    
