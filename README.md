@@ -13,6 +13,9 @@
    [Solution](https://ideone.com/UpCTjJ)<br/>
    [A. AvtoBus](https://codeforces.com/contest/1679/problem/A)<br/>
    [Solution](https://ideone.com/pCOna9)<br/>
+   [B. GCD Problem](https://codeforces.com/problemset/problem/1617/B)<br/>
+   [Solution](https://ideone.com/7hY9bG)<br/>
+   
    
    
    
