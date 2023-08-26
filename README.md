@@ -49,6 +49,9 @@
    
    [Airport Management](https://www.codechef.com/problems/AIRM)<br/>
    [Solution](https://ideone.com/tITBvf)<br/>
+   [Ball Distribution](https://www.codechef.com/problems/BLDST?tab=statement)<br/>
+   [Solution](https://ideone.com/E76vZn)<br/>
+   
    
    
    
