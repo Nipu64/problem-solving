@@ -15,6 +15,8 @@
    [Solution](https://ideone.com/pCOna9)<br/>
    [B. GCD Problem](https://codeforces.com/problemset/problem/1617/B)<br/>
    [Solution](https://ideone.com/7hY9bG)<br/>
+   [A. Divide and Multiply](https://codeforces.com/problemset/problem/1609/A)<br/>
+   [Solution](https://ideone.com/fq48C0)<br/>
    
    
    
