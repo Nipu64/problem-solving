@@ -17,6 +17,9 @@
    [Solution](https://ideone.com/7hY9bG)<br/>
    [A. Divide and Multiply](https://codeforces.com/problemset/problem/1609/A)<br/>
    [Solution](https://ideone.com/fq48C0)<br/>
+   [A. Exciting Bets](https://codeforces.com/problemset/problem/1543/A)<br/>
+   [Solution](https://ideone.com/FeAjow)</br>
+   
    
    
    
