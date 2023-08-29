@@ -4,6 +4,7 @@ map<int,list<int>>adj;
 
       void addEdge(int u,int v,bool direction)
       {
+            //creat edge from u to v
                adj[u].push_back(v);
                //direction==0 means undirected
                //direction==1 means directed
@@ -35,6 +36,7 @@ int main()
     {
         int u,v;
         cin>>u>>v;
+          
         addEdge(u,v,0);
 
     }
